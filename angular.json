@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fc-modular-angular"
+    }
+  },
+  "defaultProject": "fc-modular-angular",
+  "cli": {
+    "analytics": false
+  }
 }
